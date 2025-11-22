@@ -38,6 +38,7 @@ function App() {
     }
 
     setQuery(request);
+    setCurrentPage(1); 
   };
 
   return (
